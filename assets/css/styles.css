@@ -1,0 +1,21 @@
+body {
+  background-color: #efefef;
+}
+
+.list-inline-item.text-info.border.rounded.border-info.shadow-sm.pl-2.pr-2.pt-1.pb-1.mt-1.mb-1 {
+  font-size: 14px;
+}
+
+.table thead th {
+  font-size: 14px;
+  color: #333;
+}
+
+.table td {
+  font-size: 14px;
+}
+
+li {
+  font-size: 14px;
+}
+
